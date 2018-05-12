@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '38600'
     url: http://www.gutenberg.org/2009/agents/38600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37024#The-Express-Companies-of-the-United-StatesA-Study-of-a-Public-Utility
 gutenberg_issued: '2011-08-10'
 gutenberg_type: Text
 identifiers:
